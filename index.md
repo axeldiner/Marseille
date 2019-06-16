@@ -4,13 +4,13 @@
 
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
-- [Le Vieux Port avec l'hyper centre et la Canebière](#Vieux Port + Canebière)
-- [Le Mucem et la Cathédrale de la Major](#Le Mucem)
-- [Notre Dame de la Garde](#Notre Dame de la Garde)
+- Le Vieux Port avec l'hyper centre et la Canebière
+- Le Mucem et la Cathédrale de la Major
+- Notre Dame de la Garde
 
 Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire.
 
-Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est [Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre](#Le Vallon des Auffes).
+Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
 
 __Les Transports__
 
