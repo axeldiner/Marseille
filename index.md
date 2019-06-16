@@ -1,10 +1,10 @@
-## Visiter Marseille
+## :sun_with_face: Visiter Marseille :bikini:
 
 ### L'essentiel
 
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
-- Le Vieux Port avec l'hyper centre et la Canebière  :snowflake:
+- Le Vieux Port avec l'hyper centre et la Canebière
 - Le Mucem et la Cathédrale de la Major
 - Notre Dame de la Garde
 
@@ -16,15 +16,17 @@ __Les Transports__
 
 A Marseille, le réseau de transports en commun s'appelle la [RTM](https://www.rtm.fr/). Le ticket coûte 2 euros et est valable 1H sur tout le réseau (avec la possibilité de ne faire qu'un seul trajet en métro). Le centre ville est bien desservie donc je pense que vous pouvez laisser la voiture et tout faire en transport en commun.
 
-L'appli moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retrouver si vous êtes perdues.
+L'appli Moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retrouver si vous êtes perdues.
 
-Le métro : Il y a deux lignes de Métros, la ligne 1 (bleue) et la ligne 2 (rouge). Les métros te permettent de traverser rapidement la ville et peuvent être utiles pour faire un saut rapide au Prado (pour les plages) ou à la Joliette pour voir les Terrasses du Port.
+ :light_rail: Le métro : Il y a deux lignes de Métros, la ligne 1 (bleue) et la ligne 2 (rouge). Les métros te permettent de traverser rapidement la ville et peuvent être utiles pour faire un saut rapide au Prado (pour les plages) ou à la Joliette pour voir les Terrasses du Port.
 
-Le tramway : Il y a également deux lignes de tramway. Je pense qu'il vous sera seulement utile pour aller au Palais Longchamp.
+ :train: Le tramway : Il y a également deux lignes de tramway. Je pense qu'il vous sera seulement utile pour aller au Palais Longchamp.
 
-Le bus : Il ya plein de bus. Pour vous je pense que le bus sera utile pour aller voir Notre Dame de la Garde et pour aller au Vallon des Auffes.
+ :bus: Le bus : Il ya plein de bus. Pour vous je pense que le bus sera utile pour aller voir Notre Dame de la Garde et pour aller au Vallon des Auffes.
 
-Les navettes maritimes : La ville de Marseille a mis en place plusieurs navettes maritimes qui permettent de rejoindre des lieux éloignés en passant pas la mer. La traversée coûte 5 euros par personne et il y a des navettes toutes les heures.
+ :boat: Les navettes maritimes : La ville de Marseille a mis en place plusieurs navettes maritimes qui permettent de rejoindre des lieux éloignés en passant pas la mer. La traversée coûte 5 euros par personne et il y a des navettes toutes les heures.
+
+  :bike: Le vélo : Il y a des vélos un peu partout dans la ville type vélib qui sont gérés par la ville. Ubérisation oblige il y a également des trotinnettes éléctriques en libre service un peu partout. Une ballade en vélo au niveau du Prado, en longeant les plages et la mer c'est quand même plutôt pas mal. Niveau tarif avec les vélos de la ville, c'est 1euro pour avoir accès aux vélos pendant 24H, avec les 30 premières minutes gratuites. Donc l'astuce c'est bien-sur de reposer le vélo, toutes les 30 mins et de le reprendre !
 
 ![Marseille](https://thegloss.ie/wp-content/uploads/2018/02/The-Gloss-Magazine-Travel-Marseille-Tim-Magee.jpg)
 
@@ -42,7 +44,7 @@ Depuis cette rue, tu peux accéder à des petites rues toute mignonnes avec des 
 * La Rue Saint Féréole (St fé pour les intimes), c'est la rue commerçante de Marseille. Donc plein de boutiques de base genre H&M, Zara, Mango & Co. Au bout de la rue tu as la préfecture. C'est un vieux bâtiment et j'en suis personnellement fan. De nuit c'est encore plus joli.
 
 Une fois sur le Vieux Port tu as la nouvelle verrière (le grand miroir), si tu veux prendre des jolies photos.
-Le matin genre jusqu'à 10H30 je pense, les pêcheurs vendent leur poisson au tout début du port, juste à côté de la verrière/arrêt de Métro.
+Le matin genre jusqu'à 10H30 je pense, les pêcheurs vendent leurs poissons au tout début du port, juste à côté de la verrière/arrêt de Métro :fishing_pole_and_fish:.
 
 Le vieux port c'est un port en forme de U. Quand tu as la Canebière derrière toi et la mer devant toi :
  - Devant toi tu as les embarcadères pour les promenades en bateau
@@ -53,8 +55,6 @@ Le vieux port c'est un port en forme de U. Quand tu as la Canebière derrière t
  Sur la droite de la Mairie tu as une série d'escalier qui mène à un [hôtel 5 étoiles](https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Marseille) avec une terrasse et une vue magnifique sur le port. Si vous êtes motivés, vous pouvez y faire une pause et vous ruinez pour un coca sous le soleil (le coca est à 8€ je crois).
 
  => Dans le centre tu as différents parkings pour y laisser une voiture mais je pense que c'est assez cher.
-
- Next step : le Mucem
 
 
 ----------------------------------
@@ -72,7 +72,7 @@ Tu peux suivre ce mini-plan :
 
 Donc depuis la Mairie il faut continuer encore un peu, jusqu'à arriver à une série d'escalier juste avant un virage (ultra clair comme indication). Bref tu montes les escaliers et tu te retournes pour admirer de nouveau le port & co. C'est beau hein?
 De là tu peux prendre une première passerelle qui te mène en haut d'une tour/d'un fort avec un restaurant si mes souvenirs sont bons. Bref il faut traverser cet endroit pour rejoindre une seconde passerelle qui passe au-dessus de l'eau (voir le plan).
-Une fois au bout de la passerelle, tu seras au sommet du Mucem et tu auras une super vue. Il y a un bar et un restaurant, et aussi des transats pour faire une petite pause bien méritée.
+Une fois au bout de la passerelle, tu seras au sommet du Mucem et tu auras une super vue. Il y a un bar et un restaurant, et aussi des transats pour faire une petite pause bien méritée :tropical_drink:.
 
 Vous pouvez ensuite redescendre tranquillement et sortir du bâtiment pour faire un tour à la [Cathédrale de la Major](https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Marie-Majeure_de_Marseille) qui est juste en face du Musée.
 
@@ -89,7 +89,7 @@ De là plusieurs possibilités, en fonction de votre état de fatigue :
 -----------------------------------
 ### Les Terrasses du Port / Les Halles de la Joliette
 
-A 10 mins à pied du Mucem ou bien en métro/Tramway (Arrêt Joliette), [les terrasses du port](https://fr.wikipedia.org/wiki/Terrasses_du_Port) c'est un grand centre commercial à destination des croisiéristes qui arrivent juste à côté de toute la Méditerranée. En fonction des étages tu as différents types de magasins. Le dernier étage étant les magasins les plus beaux.
+A 10 mins à pied du Mucem ou bien en métro/Tramway (Arrêt Joliette), [les terrasses du port](https://fr.wikipedia.org/wiki/Terrasses_du_Port) c'est un grand centre commercial à destination des croisiéristes qui arrivent juste à côté de toute la Méditerranée. En fonction des étages tu as différents types de magasins. Le dernier étage étant les magasins les plus beaux :dress:.
 Depuis le dernier étage tu peux accéder à une magnifique terrasse avec une vue sur la Méditerranée, le port (le vrai cette fois, celui avec les gros bateaux) et les quartiers plus éloignés de Marseille (genre chez moi).
 Tu as aussi des restos avec vue sur la Mer, genre le Vapiano a une super terrasse à l'étage.
 Au rez-de-chaussé il y a également des endroits où manger.
@@ -107,12 +107,12 @@ En face des Terrasses du Port, il y a une autre zone commerciale, les Halles de 
 ### L'Estaque
 
 [L'Estaque](https://fr.wikipedia.org/wiki/L%27Estaque) c'est un petit quartier de pêcheurs, à la base, dans les quartiers nords de Marseille, juste à côté de chez moi.
-Pour y aller tu peux prendre la voiture mais c'est pas fun. Ducoup depuis le Vieux Port, tu peux prendre un bateau de la ville [pour faire la traversée](http://www.rtm.fr/guide-voyageur/se-deplacer/navettes-maritimes). Je crois que c'est une trentaine de minutes de bâteau et ça doit être 5 euros si mes souvenirs sont bons. Si quand vous êtes à Marseille, il fait beau et qu'il n'y a pas trop de vent ça peut être une belle sortie et l'occasion de prendre le bateau.
+Pour y aller tu peux prendre la voiture mais c'est pas fun. Ducoup depuis le Vieux Port, tu peux prendre un bateau de la ville [pour faire la traversée](http://www.rtm.fr/guide-voyageur/se-deplacer/navettes-maritimes). Je crois que c'est une trentaine de minutes de bateau et ça doit être 5 euros si mes souvenirs sont bons. Si quand vous êtes à Marseille, il fait beau et qu'il n'y a pas trop de vent ça peut être une belle sortie et l'occasion de prendre le bateau.
 Une fois à l'Estaque, il faudra acheter [des panisses (palets à base de purée pois-chiche frits) ou des chichis](https://www.myprovence.fr/article/chichis-et-panisses) (un genre de churros mais plus épais donc plus mou, une tuerie) et boire un verre en terrasse avec vue sur le port.
 
-Possibilité de se baigner sur les plages de l'Estaque même si ce ne sont pas les plus safes de Marseille, tu peux quand même y faire un plouf pour te rafraîchir tranquillou.
+Possibilité de se baigner sur les plages de l'Estaque même si ce ne sont pas les plus safes de Marseille, tu peux quand même y faire un plouf pour te rafraîchir tranquillou :swimmer:.
 
-Si vous êtes en bateau, attention de ne pas rater la dernière navette (une par heure) sinon ça devient compliqué pour rentrer.
+:warning:Si vous êtes en bateau, attention de ne pas rater la dernière navette (une par heure) sinon ça devient compliqué pour rentrer.
 
 Et sinon si vous venez d'Aix en voiture, l'Estaque est avant le centre ville de Marseille, donc ça peut être cool d'y faire un saut.
 
@@ -127,11 +127,11 @@ Et sinon si vous venez d'Aix en voiture, l'Estaque est avant le centre ville de 
 Le [Vallon des Auffes](https://fr.wikipedia.org/wiki/Vallon_des_Auffes) c'est également un quartier de pêcheurs mais cette fois-ci c'est bien plus proche du centre ville, donc yeah.
 Je pense que le plus simple pour y aller c'est en bus avec le 83 depuis le vieux port ou bien en vélo si vous êtes motivées (Mais je conseille le bus surtout que vous ne connaissez pas le chemin).
 
-Je vous conseille d'aller manger une pizza au restaurant ["Chez Jeannot"](https://www.pizzeriachezjeannot.com/), en terrasse. Pour le weekend, il faut peut-être réserver.
+Je vous conseille d'aller manger une pizza au restaurant ["Chez Jeannot"](https://www.pizzeriachezjeannot.com/), en terrasse. Pour le weekend, il faut peut-être réserver :pizza:.
 
-A côté du vallon des auffes il y a plusieurs petites plages pour se baigner donc c'est top cool et tout beau.
+A côté du Vallon des Auffes il y a plusieurs petites plages pour se baigner donc c'est top cool et tout beau.
 
-Ensuite vous pouvez reprendre le bus/vélo ou bien continuer un petit peu à pied et longer tout le bord de mer jusqu'aux plages du prado.
+Ensuite vous pouvez reprendre le bus/vélo ou bien continuer un petit peu à pied et longer tout le bord de mer jusqu'aux plages du Prado.
 (en bus c'est du 15 mins, en vélo 40 mins et à pied c'est quand même long mais vous pouvez au moins faire un petit bout jusqu'à l'arrêt de bus suivant).
 
 <div class="resl-container">
@@ -144,7 +144,7 @@ Ensuite vous pouvez reprendre le bus/vélo ou bien continuer un petit peu à pie
 
 Donc le Prado, c'est le quartier des plages, avec plusieurs plages qui se succèdent. Ce sont des plages ultra touristiques avec la moitié de Marseille qui y va tous les weekends. Donc pas l'endroit le plus confortable mais ça reste agréable pour faire un tour et une petite séance de bronzette.
 Pour être exact le Prado c'est une avenue qui va s'étendre du rond-point du Prado (arrêt de métro Prado) avec le stade Vélodrome à coté, jusqu'à la mer et aux plages avec une reproduction de la statue de David ([le Monsieur tout nu](https://fr.wikipedia.org/wiki/David_(Michel-Ange))).
-Une fois devant la statue, si tu arrêtes de regarder le monsieur tout nu, tu auras :
+Une fois devant la statue, si tu arrêtes de regarder le monsieur tout nu  :see_no_evil:, tu auras :
 - sur ta droite -> la corniche (avec des plages, des très belles maisons et tout au bout le vallon des auffes puis le vieux port)
 - sur ta gauche -> des plages, un grand parc, des plages encore, le bowl pour voir des skateurs et le port de la pointe rouge.
 
@@ -155,7 +155,7 @@ Il y a aussi des restaurants autour de David.
 </div>
 
 
-Personnellement, je vous conseille d'aller vers la gauche, de faire un tour dans le [parc Borély](https://fr.wikipedia.org/wiki/Parc_Bor%C3%A9ly), puis de manger une glace au bord de la plage et d'aller voir les jeunes skateurs faire les beaux. La plage à coté du bowl est un peu plus calme normalement.
+Personnellement, je vous conseille d'aller vers la gauche, de faire un tour dans le [parc Borély](https://fr.wikipedia.org/wiki/Parc_Bor%C3%A9ly), puis de manger une glace au bord de la plage :icecream: et d'aller voir les jeunes skateurs faire les beaux. La plage à coté du bowl est un peu plus calme normalement.
 Si il fait moche, vous aurez peut-être même la possibilité de voir des mecs faire du (kite)surf.
 
 Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autre Port. De là vous avez la possibilité de reprendre des bateaux de la ville pour :
@@ -167,7 +167,7 @@ Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autr
 ### Les Goudes
 
 [Les Goudes](https://fr.wikipedia.org/wiki/Les_Goudes) c'est complètement au bout de Marseille donc c'est principalement des rochers et la mer, les calanques quoi !
-C'est super loin de chez moi donc je ne connais pas trop, j'y suis allé 2x je crois haha. Mais ça reste très très joli et maintenant avec le bateau qui fait la navette c'est top. Il y a un très bon resto de poisson mais ça coûte un peu un pont (comme dise nos amis belges). Perso j'y ai fait un picnic devant le coucher de soleil ya un an et c'était quand même assez magnifique. C'est également possible de s'y rendre en voiture mais faut être assez calme et ne pas avoir peur des micros rues à double sens et des voitures garées en triple file.
+C'est super loin de chez moi donc je ne connais pas trop, j'y suis allé 2x je crois haha. Mais ça reste très très joli et maintenant avec le bateau qui fait la navette c'est top. Il y a un très bon resto de poisson mais ça coûte un peu un pont (comme dise nos amis belges). Perso j'y ai fait un picnic devant le coucher de soleil ya un an et c'était quand même assez magnifique :sunrise:. C'est également possible de s'y rendre en voiture mais faut être assez calme et ne pas avoir peur des micros rues à double sens et des voitures garées en triple file.
 
 
 ----------------------------------------
