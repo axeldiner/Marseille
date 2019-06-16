@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Axel DINER
 description: [A short description of your site's purpose]
+plugins:
+  - jemoji
