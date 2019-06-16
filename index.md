@@ -14,7 +14,7 @@ Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieu
 
 __Les Transports__
 
-A Marseille, le réseau de transports en commun s'appelle la [RTM](https://www.rtm.fr/). Le ticket coûte 2 euros et est valable 1H sur tout le réseau (avec la possibilité de ne faire qu'un trajet en métro). Le centre ville est bien desservie donc je pense que vous pouvez laisser la voiture et tout faire en transport en commun.
+A Marseille, le réseau de transports en commun s'appelle la [RTM](https://www.rtm.fr/). Le ticket coûte 2 euros et est valable 1H sur tout le réseau (avec la possibilité de ne faire qu'un seul trajet en métro). Le centre ville est bien desservie donc je pense que vous pouvez laisser la voiture et tout faire en transport en commun.
 
 L'appli moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retrouver si vous êtes perdues.
 
