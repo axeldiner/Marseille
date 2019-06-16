@@ -4,7 +4,7 @@
 
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
-- Le Vieux Port avec l'hyper centre et la Canebière
+- Le Vieux Port avec l'hyper centre et la Canebière  :snowflake:
 - Le Mucem et la Cathédrale de la Major
 - Notre Dame de la Garde
 
