@@ -14,9 +14,7 @@ Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez fair
 Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
 
 
-[alt text][logo]
-
-[logo]: https://thegloss.ie/wp-content/uploads/2018/02/The-Gloss-Magazine-Travel-Marseille-Tim-Magee.jpg "Marseille"
+![Marseille](https://thegloss.ie/wp-content/uploads/2018/02/The-Gloss-Magazine-Travel-Marseille-Tim-Magee.jpg)
 
 
 ### Vieux Port + Canebière
