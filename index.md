@@ -4,13 +4,13 @@
 
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
-- Le Vieux Port avec l'hyper centre et la Canebière
-- Le Mucem et la Cathédrale de la Major
-- Notre Dame de la Garde
+- [Le Vieux Port avec l'hyper centre et la Canebière](###Vieux Port + Canebière)
+- [Le Mucem et la Cathédrale de la Major](###Le Mucem)
+- [Notre Dame de la Garde](###Notre Dame de la Garde)
 
 Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire.
 
-Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
+Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est [Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre](###Le Vallon des Auffes).
 
 __Les Transports__
 
@@ -158,7 +158,7 @@ Il y a aussi des restaurants autour de David.
 Personnellement, je vous conseille d'aller vers la gauche, de faire un tour dans le [parc Borély](https://fr.wikipedia.org/wiki/Parc_Bor%C3%A9ly), puis de manger une glace au bord de la plage et d'aller voir les jeunes skateurs faire les beaux. La plage à coté du bowl est un peu plus calme normalement.
 Si il fait moche, vous aurez peut-être même la possibilité de voir des mecs faire du (kite)surf.
 
-Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autre Port. De là vous avez la possibilité de reprendre des bateaux de la ville pour
+Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autre Port. De là vous avez la possibilité de reprendre des bateaux de la ville pour :
 - retourner dans le centre ville (vieux port)
 - accéder aux Goudes
 
