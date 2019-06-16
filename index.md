@@ -1,4 +1,4 @@
-## :sun_with_face: Visiter Marseille :fish:
+## Visiter Marseille
 
 ### L'essentiel
 
