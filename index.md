@@ -1,8 +1,17 @@
 ## Visiter Marseille
 
-|L'essentiel|
-|---|
-|Il y a deux lignes de Métro, deux lignes de Tramway et plein de lignes de bus pour circuler dans toutes la ville. C'est le réseau [RTM](https://www.rtm.fr/). Je pense qu'une fois que vous êtes dans le centre, vous n'avez plus besoin de voiture. Le ticket pour les transports en commun est à 2€ pour une validité d'une heure. Donc possibilité de le réutiliser dans ce lapse de temps. J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir le vieux port avec l'hyper centre et la Canebière. Le Mucem, la Cathédrale de la Major et Notre Dame de la Garde. Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire. Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.|
+### L'essentiel
+
+Il y a deux lignes de Métro, deux lignes de Tramway et plein de lignes de bus pour circuler dans toutes la ville. C'est le réseau [RTM](https://www.rtm.fr/). Je pense qu'une fois que vous êtes dans le centre, vous n'avez plus besoin de voiture. Le ticket pour les transports en commun est à 2€ pour une validité d'une heure. Donc possibilité de le réutiliser dans ce lapse de temps. 
+
+J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
+- Le vieux port avec l'hyper centre et la Canebière
+- Le Mucem et la Cathédrale de la Major
+- Notre Dame de la Garde
+
+Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire. 
+
+Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
 
 ### Vieux Port + Canebière
 
