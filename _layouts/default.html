@@ -79,6 +79,21 @@
       color:#444;
       font-weight:700;
     }
+      
+    .resp-container {
+      position: relative;
+      overflow: hidden;
+      padding-top: 56.25%;
+    }
+      
+    .resp-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }  
 
     th {
       color:#444;
@@ -168,6 +183,7 @@
       -webkit-font-smoothing:subpixel-antialiased;
     }
 
+
     @media print, screen and (max-width: 960px) {
 
       div.wrapper {
@@ -204,13 +220,6 @@
         padding:15px;
       }
 
-      .downloads {
-        width:99%;
-      }
-
-      .downloads li, .downloads li + li + li {
-        width:33%;
-      }
     }
 
     @media print {
