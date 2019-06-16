@@ -50,6 +50,11 @@
       padding:0 0 0 20px;
       font-style:italic;
     }
+      
+    .resp-container {
+      width:600px;
+      height:450px;
+    }
 
     code, pre {
       font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
@@ -205,6 +210,12 @@
         padding:15px;
       }
 
+    }
+    
+     @media print, screen and (max-width: 600px) {
+      .resp-container {
+         width:auto;
+          height:auto;
     }
 
     @media print {
