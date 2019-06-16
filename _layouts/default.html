@@ -144,7 +144,7 @@
     }
 
     section {
-      width:530px;
+      width:auto;
       float:right;
       padding-bottom:50px;
     }
@@ -175,7 +175,7 @@
         margin:0;
       }
 
-      header, section, footer {
+      section, footer {
         float:none;
         position:static;
         width:auto;
@@ -186,16 +186,6 @@
         border-width:1px 0;
         padding:20px 0;
         margin:0 0 20px;
-      }
-
-      header a small {
-        display:inline;
-      }
-
-      header ul {
-        position:absolute;
-        right:50px;
-        top:52px;
       }
     }
 
@@ -239,8 +229,6 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-      </header>
       <section>
 
       {{ content }}
