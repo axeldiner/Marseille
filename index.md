@@ -2,14 +2,14 @@
 
 ### L'essentiel
 
-Il y a deux lignes de Métro, deux lignes de Tramway et plein de lignes de bus pour circuler dans toutes la ville. C'est le réseau [RTM](https://www.rtm.fr/). Je pense qu'une fois que vous êtes dans le centre, vous n'avez plus besoin de voiture. Le ticket pour les transports en commun est à 2€ pour une validité d'une heure. Donc possibilité de le réutiliser dans ce lapse de temps. 
+Il y a deux lignes de Métro, deux lignes de Tramway et plein de lignes de bus pour circuler dans toutes la ville. C'est le réseau [RTM](https://www.rtm.fr/). Je pense qu'une fois que vous êtes dans le centre, vous n'avez plus besoin de voiture. Le ticket pour les transports en commun est à 2€ pour une validité d'une heure. Donc possibilité de le réutiliser dans ce lapse de temps.
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
 - Le vieux port avec l'hyper centre et la Canebière
 - Le Mucem et la Cathédrale de la Major
 - Notre Dame de la Garde
 
-Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire. 
+Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire.
 
 Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
 
@@ -42,6 +42,7 @@ Le vieux port c'est un port en forme de U. Quand tu as la Canebière derrière t
  => Dans le centre tu as différents parkings pour y laisser une voiture mais je pense que c'est assez cher.
 
  Next step : le Mucem
+
 
 ### Le Mucem
 
@@ -84,7 +85,8 @@ En face des Terrasses du Port, il y a une autre zone commerciale, les Halles de 
 
 <div class="resl-container">
 <iframe class="resp-iframe"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7088398395595!2d5.36318315632413!3d43.3065032284774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9c0eecce53199%3A0x10b7f2b29b3a4779!2sLes+Terrasses+Du+Port!5e0!3m2!1sfr!2slu!4v1560692090644!5m2!1sfr!2slu" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div> 
+</div>
+
 
 ### L'Estaque
 
@@ -101,6 +103,7 @@ Et sinon si vous venez d'Aix en voiture, l'Estaque est avant le centre ville de 
 <div class="resl-container">
 <iframe class="resp-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23204.511823862857!2d5.299987464501413!3d43.365230314445455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9e9ff22a7e82f%3A0x260819a6fc53bb01!2sL&#39;Estaque%2C+Marseille%2C+France!5e0!3m2!1sfr!2slu!4v1560691141186!5m2!1sfr!2slu" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
+
 
 ### Le Vallon des Auffes
 
@@ -145,6 +148,7 @@ Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autr
 
 [Les Goudes](https://fr.wikipedia.org/wiki/Les_Goudes) c'est complètement au bout de Marseille donc c'est principalement des rochers et la mer, les calanques quoi !
 C'est super loin de chez moi donc je ne connais pas trop, j'y suis allé 2x je crois haha. Mais ça reste très très joli et maintenant avec le bateau qui fait la navette c'est top. Il y a un très bon resto de poisson mais ça coûte un peu un pont (comme dise nos amis belges). Perso j'y ai fait un picnic devant le coucher de soleil ya un an et c'était quand même assez magnifique. C'est également possible de s'y rendre en voiture mais faut être assez calme et ne pas avoir peur des micros rues à double sens et des voitures garées en triple file.
+
 
 ### Notre Dame de la Garde
 
