@@ -2,7 +2,6 @@
 
 ### L'essentiel
 
-Il y a deux lignes de Métro, deux lignes de Tramway et plein de lignes de bus pour circuler dans toutes la ville. C'est le réseau [RTM](https://www.rtm.fr/). Je pense qu'une fois que vous êtes dans le centre, vous n'avez plus besoin de voiture. Le ticket pour les transports en commun est à 2€ pour une validité d'une heure. Donc possibilité de le réutiliser dans ce lapse de temps.
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut absolument voir :
 - Le Vieux Port avec l'hyper centre et la Canebière
@@ -13,6 +12,19 @@ Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez fair
 
 Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
 
+__Les Transports__
+
+A Marseille, le réseau de transports en commun s'appelle la [RTM](https://www.rtm.fr/). Le ticket coûte 2 euros et est valable 1H sur tout le réseau (avec la possibilité de ne faire qu'un trajet en métro). Le centre ville est bien desservie donc je pense que vous pouvez laisser la voiture et tout faire en transport en commun.
+
+L'appli moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retrouver si vous êtes perdues.
+
+Le métro : Il y a deux lignes de Métros, la ligne 1 (bleue) et la ligne 2 (rouge). Les métros te permettent de traverser rapidement la ville et peuvent être utiles pour faire un saut rapide au Prado (pour les plages) ou à la Joliette pour voir les Terrasses du Port.
+
+Le tramway : Il y a également deux lignes de tramway. Je pense qu'il vous sera seulement utile pour aller au Palais Longchamp.
+
+Le bus : Il ya plein de bus. Pour vous je pense que le bus sera utile pour aller voir Notre Dame de la Garde et pour aller au Vallon des Auffes.
+
+Les navettes maritimes : La ville de Marseille a mis en place plusieurs navettes maritimes qui permettent de rejoindre des lieux éloignés en passant pas la mer. La traversée coûte 5 euros par personne et il y a des navettes toutes les heures.
 
 ![Marseille](https://thegloss.ie/wp-content/uploads/2018/02/The-Gloss-Magazine-Travel-Marseille-Tim-Magee.jpg)
 
@@ -75,7 +87,7 @@ De là plusieurs possibilités, en fonction de votre état de fatigue :
 
 
 -----------------------------------
-### Les terrasses du Port / Les Halles de la Joliette
+### Les Terrasses du Port / Les Halles de la Joliette
 
 A 10 mins à pied du Mucem ou bien en métro/Tramway (Arrêt Joliette), [les terrasses du port](https://fr.wikipedia.org/wiki/Terrasses_du_Port) c'est un grand centre commercial à destination des croisiéristes qui arrivent juste à côté de toute la Méditerranée. En fonction des étages tu as différents types de magasins. Le dernier étage étant les magasins les plus beaux.
 Depuis le dernier étage tu peux accéder à une magnifique terrasse avec une vue sur la Méditerranée, le port (le vrai cette fois, celui avec les gros bateaux) et les quartiers plus éloignés de Marseille (genre chez moi).
