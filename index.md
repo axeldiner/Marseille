@@ -5,13 +5,13 @@
 
 J'ai mis trop de choses pour une seule journée donc pour faire simple, il faut *absolument* voir :
 
-- Le Vieux Port avec l'hyper centre et la Canebière
-- Le Mucem et la Cathédrale de la Major
-- Notre Dame de la Garde
+- [Le Vieux Port avec l'hyper centre et la Canebière](#Canebière)
+- [Le Mucem et la Cathédrale de la Major](#Mucem)
+- [Notre Dame de la Garde](#NDLG)
 
 Le reste c'est beau mais c'est en plus et ça dépend de ce que vous voulez faire.
 
-Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado puis demi tour en bus et retour dans l'hyper centre.
+Pour faire un plouf et manger un bout dans un endroit sympa je pense que le mieux c'est [Vallon des Auffes x Baignade à Malmousque x Promenade rapide sur la corniche vers le Prado](#Auffes) puis demi tour en bus et retour dans l'hyper centre.
 
 __Les Transports__
 
@@ -19,7 +19,7 @@ A Marseille, le réseau de transports en commun s'appelle la [RTM](https://www.r
 
 L'appli Moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retrouver si vous êtes perdues.
 
- :light_rail: Le métro : Il y a deux lignes de Métros, la ligne 1 (bleue) et la ligne 2 (rouge). Les métros te permettent de traverser rapidement la ville et peuvent être utiles pour faire un saut rapide au Prado (pour les plages) ou à la Joliette pour voir les Terrasses du Port.
+ :light_rail: Le métro : Il y a deux lignes de Métros, la ligne 1 (bleue) et la ligne 2 (rouge). Les métros te permettent de traverser rapidement la ville et peuvent être utiles pour faire un saut rapide au Prado (pour les plages) ou à la Joliette pour voir [les Terrasses du Port](#Terrasses).
 
  :train: Le tramway : Il y a également deux lignes de tramway. Je pense qu'il vous sera seulement utile pour aller au Palais Longchamp.
 
@@ -33,6 +33,7 @@ L'appli Moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retr
 
 
 --------------------------------------
+ <a id="Canebière"></a>
 ### Vieux Port + Canebière
 
 Artère principale de Marseille, la [Canebière](https://fr.wikipedia.org/wiki/Canebi%C3%A8re) c'est la grande avenue qui traverse le centre ville.
@@ -59,6 +60,7 @@ Le vieux port c'est un port en forme de U. Quand tu as la Canebière derrière t
 
 
 ----------------------------------
+ <a id="Mucem"></a>
 ### Le Mucem
 
 Le [Mucem](https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Civilisations_de_l%27Europe_et_de_la_M%C3%A9diterran%C3%A9e) c'est un musée sur les civilisations méditerranéennes qui a été construit lorsque Marseille est devenue Capitale Européenne de la Culture en 2013. Bref si vous êtes musée et intéressées par le sujet ça peut être intéressant mais c'est pas vraiment mon dada. Mais il faut quand même y aller pour le bâtiment et la vue.
@@ -88,6 +90,7 @@ De là plusieurs possibilités, en fonction de votre état de fatigue :
 
 
 -----------------------------------
+ <a id="Terrasses"></a>
 ### Les Terrasses du Port / Les Halles de la Joliette
 
 A 10 mins à pied du Mucem ou bien en métro/Tramway (Arrêt Joliette), [les terrasses du port](https://fr.wikipedia.org/wiki/Terrasses_du_Port) c'est un grand centre commercial à destination des croisiéristes qui arrivent juste à côté de toute la Méditerranée. En fonction des étages tu as différents types de magasins. Le dernier étage étant les magasins les plus beaux :dress:.
@@ -105,6 +108,7 @@ En face des Terrasses du Port, il y a une autre zone commerciale, les Halles de 
 
 
 ---------------------------------------------
+ <a id="Estaque"></a>
 ### L'Estaque
 
 [L'Estaque](https://fr.wikipedia.org/wiki/L%27Estaque) c'est un petit quartier de pêcheurs, à la base, dans les quartiers nords de Marseille, juste à côté de chez moi.
@@ -123,6 +127,7 @@ Et sinon si vous venez d'Aix en voiture, l'Estaque est avant le centre ville de 
 
 
 -----------------------------------------------
+ <a id="Auffes"></a>
 ### Le Vallon des Auffes
 
 Le [Vallon des Auffes](https://fr.wikipedia.org/wiki/Vallon_des_Auffes) c'est également un quartier de pêcheurs mais cette fois-ci c'est bien plus proche du centre ville, donc yeah.
@@ -141,6 +146,7 @@ Ensuite vous pouvez reprendre le bus/vélo ou bien continuer un petit peu à pie
 
 
 -----------------------------------
+ <a id="Prado"></a>
 ### Prado + Hippodrome/Parc Borély + Pointe Rouge
 
 Donc le Prado, c'est le quartier des plages, avec plusieurs plages qui se succèdent. Ce sont des plages ultra touristiques avec la moitié de Marseille qui y va tous les weekends. Donc pas l'endroit le plus confortable mais ça reste agréable pour faire un tour et une petite séance de bronzette.
@@ -165,6 +171,7 @@ Si vous continuez encore, vous arrivez à la pointe rouge qui est encore un autr
 
 
 ----------------------------------------------------
+ <a id="Goudes"></a>
 ### Les Goudes
 
 [Les Goudes](https://fr.wikipedia.org/wiki/Les_Goudes) c'est complètement au bout de Marseille donc c'est principalement des rochers et la mer, les calanques quoi !
@@ -172,6 +179,7 @@ C'est super loin de chez moi donc je ne connais pas trop, j'y suis allé 2x je c
 
 
 ----------------------------------------
+ <a id="NDLG"></a>
 ### Notre Dame de la Garde
 
 Donc ça c'est un incontournable.
@@ -191,6 +199,7 @@ Si vous redescendez à pied ou que vous êtes sur le côté Gauche du vieux port
 
 
 ------------------------------------------
+ <a id="Palais"></a>
 ### Palais Longchamp
 
 J'aime beaucoup [cet endroit](https://fr.wikipedia.org/wiki/Palais_Longchamp) donc je suis peut-être un peu biaisé mais bon.
