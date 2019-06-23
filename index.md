@@ -239,5 +239,4 @@ Bref il faut simplement suivre les rails du Tram (ou prendre le tram) et s'arrê
 
 
 ----------------------------
-
-#### *<p style="text-align:center">Made by Axel Diner with :blue_heart:*
+*<h4 style="text-align:center">Made by Axel Diner with :blue_heart:*
