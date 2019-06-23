@@ -231,10 +231,3 @@ Bref il faut simplement suivre les rails du Tram (ou prendre le tram) et s'arrê
 <div class="resl-container">
 <iframe class="resp-iframe"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2897.82381217813!2d5.3935910773174145!3d43.30483207153818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9bf62559b4381%3A0xe8758c4ddd3ba377!2sParc+Longchamp!5e0!3m2!1sfr!2slu!4v1560691856537!5m2!1sfr!2slu" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-
-
-<div class="bas de page">
-
-Made by Axel DINER with passion :heart:
-
-</div>
