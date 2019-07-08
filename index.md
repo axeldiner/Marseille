@@ -26,7 +26,7 @@ L'appli Moovit fonctionne aussi à Marseille donc tu pourras facilement t'y retr
  :bus: Le bus : Il y a plein de bus. Pour vous je pense que le bus sera utile pour aller voir [Notre Dame de la Garde](#NDLG) et pour aller au [Vallon des Auffes](#Vallon).
 
  :boat: Les navettes maritimes : La ville de Marseille a mis en place plusieurs navettes maritimes qui permettent de rejoindre des lieux éloignés en passant pas la mer. La traversée coûte 5 euros par personne et il y a des navettes toutes les heures.    
- En parallèle, il existe également des compagnies de bateaux privées pour rejoindre les îles, avec notament l'île du Frioul ou bien le Château d'If. Ces traversées sont parcontre plus chères.
+ En parallèle, il existe également des compagnies de bateaux privées pour rejoindre les îles, avec notamment l'île du Frioul ou bien le Château d'If. Ces traversées sont parcontre plus chères.
 
   :bike: Le vélo : Il y a des vélos un peu partout dans la ville type vélib qui sont gérés par la ville.     
   Ubérisation oblige il y a également des trottinettes électriques en libre service. Une ballade en vélo au niveau du [Prado](#Prado), en longeant les plages et la mer c'est quand même plutôt pas mal. Niveau tarif avec les vélos de la ville, c'est 1 euro pour avoir accès aux vélos pendant 24H, avec les 30 premières minutes gratuites. Donc l'astuce c'est bien-sur de reposer le vélo, toutes les 30 mins et de le reprendre !
